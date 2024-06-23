@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @endse
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++
 
 <!---
 endse/endse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
