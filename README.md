@@ -1,206 +1,197 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,25:111C3D,55:4C1D95,100:06B6D4&text=CHIRAG%20YADAV&fontColor=EAFBFF&fontSize=50&fontAlignY=36&desc=BUILDING%20INTELLIGENT%20SYSTEMS%20%7C%20ENGINEERING%20THE%20FUTURE&descAlignY=58&descSize=13&animation=twinkling" />
+<img src="assets/chirag-brand-loop.gif" width="100%" alt="Chirag Yadav — Intelligence, Engineered. Animated personal brand banner" />
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=AI+Systems+%2F+Backend+Architecture;Agentic+Workflows+%2F+Applied+Machine+Learning;Developer+Tools+%2F+Product+Engineering;Designing+systems+that+think%2C+adapt+and+scale" alt="Animated developer tagline" />
-</a>
+**Senior Developer · Applied AI · Systems Engineering**
 
-<br/>
+*I build intelligent systems that turn complex information and workflows into useful, dependable software.*
 
-<a href="https://github.com/endse"><img src="https://komarev.com/ghpvc/?username=endse&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/endse?tab=followers"><img src="https://img.shields.io/github/followers/endse?style=for-the-badge&logo=github&color=6D28D9&label=FOLLOWERS" alt="Followers" /></a>
-<a href="https://github.com/endse?tab=repositories"><img src="https://img.shields.io/github/stars/endse?style=for-the-badge&logo=github&color=0F766E&label=STARS" alt="Stars" /></a>
+[GitHub](https://github.com/endse) · [Projects](#02--selected-work) · [Engineering focus](#04--engineering-focus)
 
 </div>
 
 ---
 
-## `01 — WHO AM I`
+## 01 / THE POINT OF VIEW
 
-```text
-IDENTITY    Chirag Yadav
-ROLE        Software Engineer / Systems Builder
-FOCUS       AI engineering • Backend systems • Developer tools
-MINDSET     Research deeply. Engineer deliberately. Ship iteratively.
-INTERESTS   Agentic systems • RAG • Graphs • Distributed workflows
-```
+I work where **AI engineering, knowledge systems, and backend architecture** meet.
 
-I build software at the intersection of AI, backend engineering, and product architecture. My work ranges from agent orchestration SDKs and AI-native developer tools to legal knowledge systems and intelligent training applications.
+My focus is not just making a model produce an answer. It is engineering the surrounding system: how information is structured, how context is retrieved, how agents use tools, how workflows recover from failure, and how the result becomes a product people can use.
 
-I care about the engineering beneath the interface: reliable workflows, useful abstractions, explainable decisions, and systems that can evolve.
+**My engineering thesis:** intelligence becomes valuable when it is grounded in context, connected to reliable systems, and designed around a real problem.
 
-## `02 — FEATURED SYSTEMS`
+### Three connected disciplines
 
-<div align="center">
+| Discipline | What I build |
+|---|---|
+| **Intelligence** | Agent systems, model orchestration, memory, reasoning workflows and applied ML |
+| **Knowledge** | Legal document intelligence, hierarchical retrieval, graph relationships and citation-aware workflows |
+| **Systems** | APIs, data platforms, background processing, integrations, observability and product infrastructure |
 
-### ✦ THE CORE PROJECT LINEUP
+---
 
-</div>
+## 02 / SELECTED WORK
+
+The projects below represent the core of my engineering work.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / Nyayshakti
-**Legal intelligence platform**
+### 01 — NYAYSHAKTI
+**Legal intelligence · Applied AI**
 
-A legal-tech project intended to make legal information and workflows more accessible through software and AI.
+A legal technology initiative focused on making complex legal information more structured, searchable and actionable. It sits at the intersection of legal-domain workflows, document intelligence and retrieval-oriented AI.
 
-[↗ Open repository](https://github.com/Endsett/Nyayshakti)
-
-<sub>Repository URL supplied directly; project details need verification.</sub>
+[Explore Nyayshakti ↗](https://github.com/Endsett/Nyayshakti)
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / EchoMind
-**AI-powered cognitive system**
+### 02 — ECHOMIND
+**AI product · Context-aware experiences**
 
-Featured as a core project. The repository URL supplied is under `endse`; the repository could not be verified by the connected GitHub integration.
+An AI-focused product in my project portfolio. It represents the product layer of my work: turning AI capabilities into a focused experience rather than leaving them as infrastructure alone.
 
-[↗ Open repository](https://github.com/endse/EchoMind)
-
-<sub>Project description intentionally kept high-level pending repository verification.</sub>
+[Explore EchoMind ↗](https://github.com/endse/EchoMind)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 03 / Echo AI SDK
-**TypeScript AI orchestration platform**
+### 03 — ECHO AI SDK
+**Agent infrastructure · TypeScript**
 
-A developer SDK for building chat, voice, tools, RAG and agent-powered applications.
+A developer platform for building AI-powered applications across chat, voice, tools and agents.
 
-- Multi-provider model gateway and fallback patterns
-- Agent executors, tools and structured outputs
-- RAG ingestion, persistent memory and semantic search
-- MCP-oriented tooling, telemetry and evaluation direction
+- Multi-provider model gateway and fallback
+- Agent execution, tool calling and orchestration
+- Structured outputs, prompt management and middleware
+- Memory, semantic retrieval, voice interfaces and telemetry
 
-[↗ Repository](https://github.com/Endsett/Echo-ai-sdk) · [npm package](https://www.npmjs.com/package/@endsett/echo-ai-sdk)
+[Explore Echo AI SDK ↗](https://github.com/Endsett/Echo-ai-sdk) · [npm ↗](https://www.npmjs.com/package/@endsett/echo-ai-sdk)
 
 </td>
 <td width="50%" valign="top">
 
-### 04 / Hierarchical Legal Graph Chunking
-**Structure-aware legal RAG research**
+### 04 — HIERARCHICAL LEGAL GRAPH CHUNKING
+**Knowledge engineering · Legal RAG**
 
-A legal-document processing and retrieval project, focused on representing document hierarchy and relationships for more context-aware retrieval.
+A structure-aware approach to legal document processing. The goal is to preserve the hierarchy and relationships that ordinary flat chunking can lose, creating better foundations for retrieval and graph-based legal intelligence.
 
-[↗ Open repository](https://github.com/Endsett/Hierarchical-Legal-Graph-Chunking)
+- Legal-document structure and hierarchy
+- Context-preserving chunk boundaries
+- Graph-oriented relationships and retrieval context
 
-<sub>Repository URL supplied directly; implementation details need verification.</sub>
+[Explore HLGC ↗](https://github.com/Endsett/Hierarchical-Legal-Graph-Chunking)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 05 / NeoSpartan
-**AI-powered combat-sports training platform**
+### 05 — NEOSPARTAN
+**Applied AI · Fitness technology**
 
-A Flutter + FastAPI system for personalized training and workout optimization.
+An AI-powered combat-sports training platform spanning a Flutter application and a FastAPI backend.
 
-- Gemini-powered workout generation
+- Gemini-assisted workout generation
 - Supabase-backed user and exercise data
 - JWT authentication and real-time WebSockets
-- DOM-RL optimization with a rule-based fallback
-- Docker-ready backend with health checks and rate limiting
+- DOM-RL workout optimization with a rule-based fallback
+- Containerized backend and operational health checks
 
-[↗ Repository](https://github.com/Endsett/Neospartan)
+[Explore NeoSpartan ↗](https://github.com/Endsett/Neospartan)
 
 </td>
 <td width="50%" valign="top">
 
-### 06 / EchoCoder
-**AI-native IDE for VS Code**
+### 06 — ECHOCODER
+**Developer infrastructure · AI-native IDE**
 
-An AI coding environment with agent workflows integrated into the developer experience.
+An AI-native VS Code experience designed to bring agentic workflows into the coding environment.
 
 - Agent panel and native chat participant
-- Ghost Text autocomplete and inline editing
+- Ghost-text autocomplete and inline editing
 - Multi-file Composer workflow
-- Plan → Approve → Execute → Verify loop
-- Tiered tool approval and sensitive-path protections
+- Plan → Approve → Execute → Verify
+- Tool approval and sensitive-path protections
 
-[↗ Repository](https://github.com/Endsett/Echocoder)
+[Explore EchoCoder ↗](https://github.com/Endsett/Echocoder)
 
 </td>
 </tr>
 </table>
 
-## `03 — OTHER BUILDS`
+---
 
-| Project | What it explores |
+## 03 / OTHER ENGINEERING WORK
+
+| Project | Engineering focus |
 |---|---|
-| [DOM-RL](https://github.com/endse/domrl) | Multi-objective deep reinforcement learning for recommendation systems; Hybrid SAC + NSGA-II |
-| [FraudGuard AI](https://github.com/endse/Credit-card-fraud-analysis) | Explainable fraud risk analysis with XGBoost, deterministic rules, FastAPI and React |
-| [Sahara Agile Works](https://github.com/endse/Sahara-agile) | Full-stack project and employee operations with PostgreSQL and background job patterns |
+| [DOM-RL](https://github.com/endse/domrl) | Multi-objective reinforcement learning for recommendation systems; Hybrid SAC + NSGA-II |
+| [FraudGuard AI](https://github.com/endse/Credit-card-fraud-analysis) | Explainable fraud-risk analysis using ML, deterministic rules, FastAPI and React |
+| [Sahara Agile Works](https://github.com/endse/Sahara-agile) | Full-stack project operations, PostgreSQL and resilient background job patterns |
 | [Realtime Chat](https://github.com/endse/realtime-chatapp) | Event-driven messaging with React, Node.js, Express and Socket.IO |
+| [OpenClaw](https://github.com/endse/openclaw) | AI and automation experiments |
+| [Inven-Bot](https://github.com/endse/inven-bot) | Inventory and bot-oriented project work |
 
-<details>
-<summary><b>More repositories and experiments</b></summary>
-<br/>
+---
 
-- [OpenClaw](https://github.com/endse/openclaw)
-- [Inven-Bot](https://github.com/endse/inven-bot)
-- [Ebook Server](https://github.com/endse/ebook_server)
-- [Superchat](https://github.com/endse/superchat)
-- [WebSocket experiments](https://github.com/endse/Websocket)
-- [CodeAlpha E-commerce](https://github.com/endse/CodeAlpha_ecommweb)
+## 04 / ENGINEERING FOCUS
 
-</details>
+**Languages**
 
-## `04 — ENGINEERING TOOLKIT`
+`TypeScript` `JavaScript` `Python` `C++` `Java` `Dart` `SQL`
+
+**Backend & architecture**
+
+`Node.js` `NestJS` `Express` `FastAPI` `REST APIs` `WebSockets` `Background jobs` `Distributed workflows`
+
+**Data & AI**
+
+`PostgreSQL` `Redis` `Qdrant` `Neo4j` `RAG` `BGE-M3` `Agent systems` `PyTorch` `Reinforcement Learning`
+
+**Product & infrastructure**
+
+`React` `Flutter` `Docker` `Linux` `GitHub Actions` `CI/CD` `Observability`
+
+---
+
+## 05 / HOW I WORK
+
+**Understand the domain.** The right abstraction starts with understanding the real problem and the information it depends on.
+
+**Design the system.** Data models, interfaces, retrieval paths, failure boundaries and operational behavior matter as much as the model call.
+
+**Build in useful increments.** I prefer testable components and working workflows over architecture that exists only on a diagram.
+
+**Measure and refine.** Reliability, retrieval quality, latency, cost and user outcomes should guide iteration.
+
+---
+
+## 06 / GITHUB SIGNAL
 
 <div align="center">
 
-**LANGUAGES**
+<!-- Generated locally by GitHub Actions and published to the output branch. -->
+<img src="https://raw.githubusercontent.com/endse/endse/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,dart,sql&theme=dark" />
-
-**BACKEND · DATA · INFRASTRUCTURE**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mysql,redis,docker,linux,git,github&theme=dark" />
-
-**FRONTEND · MOBILE · AI**
-
-<img src="https://skillicons.dev/icons?i=react,vite,flutter,pytorch&theme=dark" />
+[View the native contribution graph ↗](https://github.com/endse)
 
 </div>
 
-## `05 — CONTRIBUTION MATRIX`
+---
+
+## 07 / LET'S BUILD
+
+I am interested in meaningful problems involving **AI infrastructure, agentic systems, knowledge engineering, backend architecture and ambitious software products**.
+
+[Explore my repositories](https://github.com/endse) · [Connect on GitHub](https://github.com/endse)
 
 <div align="center">
 
-<!-- Generated and published by .github/workflows/snake.yml to the output branch. -->
-<img src="https://raw.githubusercontent.com/endse/endse/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution graph" width="100%" />
-
-<a href="https://github.com/endse">Explore the live GitHub contribution graph ↗</a>
-
-</div>
-
-## `06 — CURRENT VECTOR`
-
-- Building and refining AI agent infrastructure and developer tooling.
-- Exploring retrieval quality, graph-based knowledge representations, and legal RAG.
-- Engineering backend systems with a focus on resilience, observability, and scale.
-- Connecting research ideas to products people can actually use.
-
-## `07 — OPEN CHANNEL`
-
-<div align="center">
-
-<a href="https://github.com/endse"><img src="https://img.shields.io/badge/GitHub-endse-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.npmjs.com/package/@endsett/echo-ai-sdk"><img src="https://img.shields.io/badge/npm-Echo_AI_SDK-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a>
-
-<br/><br/>
-
-**Have a hard engineering problem, an AI system to design, or a product worth building?**
-
-Let's make it real.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=125&color=0:06B6D4,45:4C1D95,100:050816" />
+<sub>CHIRAG YADAV · INTELLIGENCE, ENGINEERED.</sub>
 
 </div>
