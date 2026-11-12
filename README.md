@@ -1,12 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090B1A,25:172554,55:6D28D9,100:06B6D4&text=Hey,%20I'm%20Chirag!&fontColor=F8FAFC&fontSize=48&fontAlignY=38&desc=I%20build%20things%20that%20think%2C%20scale%20%26%20ship.&descAlignY=58&descSize=16&animation=twinkling" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=22D3EE&center=true&vCenter=true&width=760&lines=Senior+Developer+%7C+AI+%26+Backend+Engineering;Building+agents%2C+knowledge+systems+%26+products;Turning+coffee+into+commits+%28and+occasionally+bugs%29;Build+%E2%86%92+Break+%E2%86%92+Learn+%E2%86%92+Ship" alt="Typing SVG" />
-</a>
-
-<br/>
+<img src="./assets/header.gif" width="100%" alt="Hey, I'm Chirag — AI, backend, systems and product engineering" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=endse&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS)](https://github.com/endse)
 [![Followers](https://img.shields.io/github/followers/endse?style=for-the-badge&logo=github&color=7C3AED&label=FOLLOWERS)](https://github.com/endse?tab=followers)
@@ -175,12 +169,8 @@ I like keeping the toolbox broad. These are the technologies I work with and exp
 
 <div align="center">
 
-<a href="https://github.com/endse">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=endse&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/endse">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=endse&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-</a>
+<a href="https://github.com/endse"><img width="49%" src="./assets/github-stats.svg" alt="GitHub statistics" /></a>
+<a href="https://github.com/endse"><img width="49%" src="./assets/top-languages.svg" alt="Most used languages across endse and Endsett repositories" /></a>
 
 <br/>
 
@@ -188,17 +178,9 @@ I like keeping the toolbox broad. These are the technologies I work with and exp
 
 <br/>
 
-<a href="https://github.com/endse">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=endse&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</a>
+<a href="https://github.com/endse"><img src="./assets/contribution-snake.svg" width="100%" alt="Animated GitHub contribution snake" /></a>
 
-</div>
-
-## `~/contribution-snake` 🐍
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/endse/endse/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="100%" />
+<a href="https://github.com/endse">Open the native GitHub contribution graph ↗</a>
 
 </div>
 
@@ -218,7 +200,5 @@ I like keeping the toolbox broad. These are the technologies I work with and exp
 **Let's build something useful (and maybe break a few things along the way).**
 
 [![GitHub](https://img.shields.io/badge/Follow%20the%20build-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/endse)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:06B6D4,45:6D28D9,100:090B1A" />
 
 </div>
