@@ -3,7 +3,12 @@ name: Refresh profile graphics
 on:
   workflow_dispatch:
   schedule:
-    - cron: "23 6 * * *"
+    - cron: "23 6 * * *" # daily
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/refresh-profile-graphics.yml"
 
 permissions:
   contents: write
@@ -25,19 +30,20 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate local GitHub stats and language cards
+      - name: Generate hero banner
+        run: python scripts/generate_hero.py
+
+      - name: Generate stats and language cards
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/generate_profile_stats.py
 
-      - name: Generate contribution snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: endse
-          outputs: |
-            assets/contribution-snake.svg?palette=github-dark
+      - name: Generate growing contribution snake
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_snake.py
 
-      - name: Commit refreshed images to the main branch
+      - name: Commit refreshed graphics
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: refresh GitHub profile graphics"
